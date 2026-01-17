@@ -1,0 +1,4 @@
+git config --global --replace-all user.name KshamaV24
+git config --global --replace-all user.email kshamabv24@gmail.com
+
+git clone https://github.com/KshamaV24/lab4.git
